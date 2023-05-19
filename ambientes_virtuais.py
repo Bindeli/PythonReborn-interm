@@ -54,6 +54,10 @@ ambiente\Scripts\activate
 
 bin - para mac ou linux
 . venv\bin\activate
+
+para ativar pelo powershell
+.\venv\Scripts\activate.ps1
+
 source venv\bin\activate
 
 deactivate - para desativar
